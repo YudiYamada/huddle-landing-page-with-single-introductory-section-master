@@ -8,8 +8,8 @@ Replicar o layout do [Huddle Landing Page](https://www.frontendmentor.io/challen
 
 ## Tecnologias utilizadas
 
-* HTML
-* CSS
+<img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+<img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 
 ## Minhas considerações sobre o desafio
 
